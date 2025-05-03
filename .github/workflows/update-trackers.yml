@@ -15,7 +15,7 @@ jobs:
         token: ${{ secrets.GH_TOKEN }}  # Uses your PAT for checkout
 
     - name: Download and combine trackers
-      run:
+      run: |
         # Download both lists
         curl -s https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt -o ngosang.txt
         curl -s https://cf.trackerslist.com/all.txt -o cf.txt
