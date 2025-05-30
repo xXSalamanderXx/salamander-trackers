@@ -29,7 +29,6 @@ http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tk.greedland.net:80/announce
-http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.23794.top:6969/announce
@@ -55,9 +54,9 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.sbsub.com:2710/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.vanitycore.co:6969/announce
+http://tracker.waaa.moe:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.zhuqiy.top:80/announce
 http://tracker1.itzmx.com:8080/announce
@@ -73,7 +72,6 @@ https://1337.abcvg.info:443/announce
 https://sparkle.ghostchu-services.top:443/announce
 https://threads.canofsocks.com:443/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.aburaya.live:443/announce
@@ -107,10 +105,8 @@ udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
-udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -137,7 +133,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bittor.pw:1337/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
@@ -145,6 +140,7 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
@@ -174,6 +170,5 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
-udp://www.2600.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announce
