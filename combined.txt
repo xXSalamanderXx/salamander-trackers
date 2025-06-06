@@ -15,7 +15,6 @@ http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.rer.lol:6969/announce
-http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.trackerlist.xyz:80/announce
 http://p4p.arenabg.com:1337/announce
@@ -30,7 +29,10 @@ http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tk.greedland.net:80/announce
+http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
+http://tr.kxmp.cf:80/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.23794.top:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
@@ -45,6 +47,7 @@ http://tracker.ghostchu-services.top:80/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.lintk.me:2710/announce
+http://tracker.lyretain.site:2710/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.netmap.top:6969/announce
@@ -72,6 +75,7 @@ https://1337.abcvg.info:443/announce
 https://sparkle.ghostchu-services.top:443/announce
 https://threads.canofsocks.com:443/announce
 https://tr.abiir.top:443/announce
+https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.bjut.jp:443/announce
@@ -113,10 +117,7 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://isk.richardsw.club:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.com:1337/announce
-udp://open.dstud.io:6969/announce
-udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
@@ -148,6 +149,7 @@ udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.top:17272/announce
+udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
@@ -160,7 +162,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
