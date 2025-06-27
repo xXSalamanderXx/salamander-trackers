@@ -1,18 +1,23 @@
 ## salamander-trackers
 
-**Combined Torrent Trackers List (Updates every 24 hours)**
+**A Combined Torrent Trackers List (Updates every 24 hours)**
 
-https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt
+🚀 **List Link:**  https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt
 
 -------------------------------------------------------------------------------------------------------
+**Information:**
 
-This list combines and removes duplicate entries of 2 popular tracker lists:
+This list combines and removes duplicate entries from 2 popular tracker lists:
 
 https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
 
 https://cf.trackerslist.com/all.txt
 
-Full credit to:
+We are using the ALL category for both list providers.
+
+
+-------------------------------------------------------------------------------------------------------
+_Full credit to:_
 
 https://github.com/ngosang/trackerslist
 
