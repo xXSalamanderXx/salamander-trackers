@@ -2,7 +2,8 @@
 
 **A Combined Torrent Trackers List (Updates every 24 hours)**
 
-🚀 **List Link:**  https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt
+🚀 **List Link:**  
+https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt
 
 -------------------------------------------------------------------------------------------------------
 **Information:**
