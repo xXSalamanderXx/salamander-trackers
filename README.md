@@ -1,8 +1,9 @@
 ## salamander-trackers
 
-**A Combined Torrent Trackers List (Updates every 24 hours)**
+**A Combined Torrent Trackers List of the latest and best public bittorrent trackers!**
+(Updates every 24 hours)
 
-🚀 **List Link:**  
+🚀 **List Link:**
 https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt
 
 -------------------------------------------------------------------------------------------------------
