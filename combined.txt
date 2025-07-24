@@ -4,6 +4,8 @@ http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+http://asiatorrent.ddns.net:51413/announce
+http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
@@ -34,7 +36,6 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tk.greedland.net:80/announce
 http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
-http://tracker.23794.top:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
@@ -77,7 +78,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://sparkle.ghostchu-services.top:443/announce
-https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
@@ -124,6 +124,7 @@ udp://extracker.dahrkael.net:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://isk.richardsw.club:6969/announce
+udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.com:1337/announce
