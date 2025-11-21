@@ -5,6 +5,7 @@ http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
@@ -36,7 +37,6 @@ http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
-http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.23794.top:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
@@ -76,7 +76,6 @@ http://www.torrentsnipe.info:2701/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://bt.bontal.net:443/announce
-https://cny.fan:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://threads.canofsocks.com:443/announce
@@ -125,10 +124,11 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
-udp://glotorrents.pw:6969/announce
 udp://hificode.in:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
+udp://isk.richardsw.club:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
@@ -147,9 +147,9 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.bitcoinindia.space:6969/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -158,6 +158,8 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.hifimarket.in:2710/announce
+udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
