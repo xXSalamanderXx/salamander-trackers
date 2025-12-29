@@ -4,10 +4,8 @@ http://207.241.231.226:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-http://bt.okmp3.ru:2710/announce
 http://bt.rer.lol:2710/announce
 http://bvarf.tracker.sh:2086/announce
-http://echostar.ddnsfree.com:8080/announce
 http://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -19,12 +17,10 @@ http://open.tracker.cl:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://retracker.hotplug.ru:2710/announce
 http://t.overflow.biz:6969/announce
-http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
-http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.23794.top:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bt4g.com:2095/announce
@@ -43,11 +39,9 @@ http://tracker.renfei.net:8080/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.wepzone.net:6969/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
-http://wepzone.net:6969/announce
 http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
@@ -62,7 +56,6 @@ https://tr.nyacat.pw:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.bt4g.com:443/announce
 https://tracker.foreverpirates.co:443/announce
-https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.iochimari.moe:443/announce
 https://tracker.kuroy.me:443/announce
@@ -86,6 +79,7 @@ udp://admin.52ywp.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://bt.bontal.net:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://burmese.app:6969/announce
 udp://concen.org:6969/announce
@@ -96,8 +90,6 @@ udp://extracker.dahrkael.net:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
-udp://node01.trackerstatus.live:42069/announce
-udp://node02.torrentonline.cc:42069/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
@@ -120,8 +112,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.bittor.pw:1337/announce
+udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
-udp://tracker.cloudbase.store:1333/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -131,6 +123,7 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
+udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -150,7 +143,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.waaa.moe:6969/announce
-udp://tracker.zupix.online:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
@@ -159,8 +151,6 @@ udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
-udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://yuki.bt.bontal.net:6969/announce
 wss://tracker.openwebtorrent.com:443/announce
