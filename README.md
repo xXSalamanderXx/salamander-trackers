@@ -6,7 +6,7 @@ Updates every 24 hours. ⚡
 
 ## 🚀 Combined List
 
-**Direct list link:**  
+**Direct List URL:**  
 ---> [Salamander-Trackers List](https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt)
 
 ## 📖 About
