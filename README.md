@@ -51,7 +51,6 @@ Your support helps keep development active and appreciated. 💙
 
 You might also like these projects:
 
-- [🦎 salamander-trackers](https://github.com/xXSalamanderXx/salamander-trackers)
 - [🔎 RLSBB-Search-Plus](https://github.com/xXSalamanderXx/RLSBB-Search-Plus)
 - [🎬 HDEncode-Search-Plus](https://github.com/xXSalamanderXx/HDEncode-Search-Plus)
 
