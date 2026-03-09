@@ -1,13 +1,17 @@
 # Salamander-Trackers 🦎📡
 
-A combined list of current public BitTorrent trackers, curated into one easy-to-use file.
+A combined list of the best and most current public BitTorrent trackers, curated into one easy-to-use file!
 
-Updates every 24 hours. ⚡
+Updates every 24 hours⚡
 
-## 🚀 Combined List
+[![License](https://img.shields.io/github/license/xXSalamanderXx/salamander-trackers?style=for-the-badge)](./LICENSE)
 
-**Direct List URL:**  
----> [Salamander-Trackers List](https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt)
+---
+
+## 🚀 **Direct List URL:**  
+
+---> [Salamander-Trackers Combined List](https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt)
+
 
 ## 📖 About
 
@@ -15,10 +19,12 @@ This project combines tracker entries from multiple well-known public tracker so
 
 It currently uses the **ALL** category from both upstream providers.
 
+
 ## 🔗 Sources
 
 - [ngosang / trackerslist — trackers_all.txt](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt)
 - [XIU2 / TrackersListCollection — all.txt](https://cf.trackerslist.com/all.txt)
+
 
 ## ✨ What This List Does
 
@@ -27,7 +33,9 @@ It currently uses the **ALL** category from both upstream providers.
 - Keeps things simple with one ready-to-use file
 - Refreshes automatically every 24 hours
 
+
 ---
+
 
 <p align="center">
   <b>⭐ Star the repo • ☕ Support development • 🚀 Explore more projects</b>
