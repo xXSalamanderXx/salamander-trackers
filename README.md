@@ -61,6 +61,7 @@ You might also like these projects:
 
 - [🔎 RLSBB-Search-Plus](https://github.com/xXSalamanderXx/RLSBB-Search-Plus)
 - [🎬 HDEncode-Search-Plus](https://github.com/xXSalamanderXx/HDEncode-Search-Plus)
+- [🦁 SlimBrave](https://github.com/xXSalamanderXx/SlimBrave)
 
 ---
 
