@@ -13,6 +13,9 @@ http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
+http://s1130638.ha016.t.mydomain.zone:80/announce
+http://s1130639.ha009.t.mydomain.zone:80/announce
+http://s1130642.ha014.t.mydomain.zone:80/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
@@ -36,11 +39,13 @@ http://tracker.skyts.net:6969/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.wepzone.net:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
+http://wepzone.net:6969/announce
 http://www.all4nothin.net:80/announce.php
 https://004430.xyz:443/announce
 https://1337.abcvg.info:443/announce
@@ -49,6 +54,7 @@ https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
+https://tr.abir.ga:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
@@ -66,6 +72,7 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
+https://wsad.run.place:443/announce
 udp://52.58.128.163:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://[2a03:7220:8083:cd00::1]:451/announce
@@ -83,9 +90,9 @@ udp://ibksturm.synology.me:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
+udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
-udp://node02.madtia.cc:42069/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
@@ -138,7 +145,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wepzone.net:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
