@@ -4,6 +4,8 @@ A combined list of the best and most current public BitTorrent trackers, curated
 
 Updates every 24 hours⚡
 
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://buymeacoffee.com/SinZZzz)
+
 [![License](https://img.shields.io/github/license/xXSalamanderXx/salamander-trackers?style=for-the-badge)](./LICENSE)
 
 ---
