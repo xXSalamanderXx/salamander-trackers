@@ -6,6 +6,7 @@ http://207.241.231.226:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://announce.sktorrent.eu:6969/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://bt.okmp3.ru:2710/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -14,7 +15,6 @@ http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.tracker.cl:1337/announce
 http://retracker01-msk-virt.corbina.net:80/announce
-http://supertracker.cc.cd:80/announce
 http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
@@ -48,11 +48,9 @@ https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://tr.abiir.top:443/announce
-https://tr.abir.ga:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
-https://tracker.adgk.net:443/announce
 https://tracker.bt4g.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.kuroy.me:443/announce
