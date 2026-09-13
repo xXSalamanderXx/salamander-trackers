@@ -57,6 +57,7 @@ https://ht.therarbg.to:443/announce
 https://open.ftorrent.com:443/announce
 https://t.213891.xyz:443/announce
 https://tr.abiir.top:443/announce
+https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.7471.top:443/announce
@@ -77,7 +78,6 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 udp://admin.52ywp.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-udp://coeus.torrentonline.cc:42069/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
@@ -123,7 +123,6 @@ udp://tracker.ilibr.org:6969/announce
 udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
-udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
@@ -143,6 +142,7 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://v6.vito-tracker.space:6969/announce
+udp://whybother.torrentonline.cc:42069/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://zer0day.ch:1337/announce
 wss://tracker.openwebtorrent.com:443/announce
