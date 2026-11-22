@@ -14,6 +14,9 @@ Updates every 24 hours⚡
 
 ---> [Salamander-Trackers Combined List](https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt)
 
+```text
+[https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt](https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt)
+```
 
 ## 📖 About
 
