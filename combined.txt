@@ -4,7 +4,6 @@ http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
-http://cn.pcfreetime.com:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.tracker.cl:1337/announce
 http://opentracker.lain.moscow:6969/announce
@@ -14,7 +13,6 @@ http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.23794.top:6969/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
@@ -25,7 +23,6 @@ http://tracker.okade.pro:1337/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
@@ -36,6 +33,7 @@ http://www.wareztorrent.com:80/announce
 https://004430.xyz:443/announce
 https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
+https://ht.therarbg.to:443/announce
 https://open.ftorrent.com:443/announce
 https://t.213891.xyz:443/announce
 https://t1.hloli.org:443/announce
@@ -91,6 +89,7 @@ udp://t.overflow.biz:6969/announce
 udp://t1.itrus.su:1212/announce
 udp://t2.itrus.su:1212/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
+udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
@@ -120,7 +119,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.sela.st:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.t-rb.org:6969/announce
